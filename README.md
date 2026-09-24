@@ -33,6 +33,7 @@ Projeto acadêmico de uma comunidade de leitura e publicação de fanfics. A int
 npm install
 npm start
 ```
+Ou acessando o site https://ngabrielly579-ship-it.github.io/projeto-tcc-ford/
 
 Depois, abra o endereço indicado pelo Angular no terminal (normalmente `http://localhost:4200`).
 
